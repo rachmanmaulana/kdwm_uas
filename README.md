@@ -1,8 +1,4 @@
 
-> **Catatan:** Karena detail file tidak ditampilkan secara eksplisit di GitHub, silakan sesuaikan nama dan susunan file di atas dengan keadaan sebenarnya di folder `Data Mining/` milikmu.
-
----
-
 ## 🔗 Tautan Proyek
 
 | Jenis | Tautan |
