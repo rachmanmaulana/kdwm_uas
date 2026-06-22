@@ -3,7 +3,7 @@
 
 | Jenis | Tautan |
 |-------|--------|
-| 🎥 **Video YouTube** (demo / presentasi) |  |
+| 🎥 **Video YouTube** (demo / presentasi) |https://youtu.be/epetjr_ELWU?si=suif8XEV-Dqh2DLt| 
 | 📦 **Repository GitHub** (ini) | [https://github.com/rachmanmaulana/kdwm_uas](https://github.com/rachmanmaulana/kdwm_uas) |
 | 🌐 **Google Sites** (dokumentasi / portofolio) | https://sites.google.com/view/rachmanportofolio/proyek-estimasi |
 
